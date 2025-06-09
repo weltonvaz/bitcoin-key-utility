@@ -1,0 +1,5 @@
+{
+  "name": "Bitcoin Key Utility",
+  "description": "A web application to generate, analyze Bitcoin private keys, display various address formats, and check real-time balances.",
+  "requestFramePermissions": []
+}
